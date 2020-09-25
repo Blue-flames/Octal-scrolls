@@ -2,5 +2,5 @@
 
 +-- _MultiThreading <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  +-- [Producer-Consumer](ProducerConsumer.md) <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  +-- [Dining Philosophers]()
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  +-- [Dining Philosophers](DiningPhilosophers.md)
  
