@@ -2,5 +2,5 @@
 
 Here you can find the best and curated learning resources.
 
- +--- [Software Engineering](Resources/Software%20Engineering/Software-Engineering.md)   <br/>
+ +--- [Software Engineering](Resources/Software%20Engineering/index.md)   <br/>
  +--- [Random Resources](#)       <br/>
