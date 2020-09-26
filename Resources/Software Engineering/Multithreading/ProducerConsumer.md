@@ -1,7 +1,7 @@
 # Producer-Consumer
 
 
-```
+```java
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -17,7 +17,7 @@ public class Control {
 ``` 
 <br/>
 
-```
+```java
 class Task implements Runnable {
     boolean isProducer;
     ProducerConsumer producerConsumer;
@@ -45,7 +45,7 @@ class Task implements Runnable {
 ```
 <br/>
 
-```
+```java
 class ProducerConsumer {
     Queue<Integer> list;
     int capacity;

@@ -1,6 +1,6 @@
 # Dining Philosophers
 
-```
+```java
 public class DCControl {
     public static void main(String[] args) {
         Philosopher[] philosophers = new Philosopher[5];
@@ -27,7 +27,7 @@ public class DCControl {
 ```
 <br/>
 
-```
+```java
 class Philosopher implements Runnable {
     private Object leftFork;
     private Object rightFork;
